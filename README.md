@@ -1,2 +1,1 @@
-# gb-go-level-two
-GeekBrains golang level two
+# GeekBrains. Курс "Go. Уровень 2"
